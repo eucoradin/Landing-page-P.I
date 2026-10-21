@@ -8,7 +8,7 @@
 body {
   background-color: #1a1a1a;
   font-family: Arial, sans-serif;
-  color: #dfafff;
+  color: #ffffff;
 }
 
 .container {
@@ -28,8 +28,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  
-
+  z-index: 1;
 }
 
 .nav {
@@ -42,7 +41,7 @@ body {
   font-size: 1.5rem;
   font-weight: bold;
   margin-right: 10px;
-  color: #dfafff;
+  color: #ffffff;
 
 }
 
@@ -52,7 +51,7 @@ body {
   align-items: center;
 }
 .menu a {
-  color: #dfafff;
+  color: #ffffff;
   text-decoration: none;
   font-size: 1rem;
   transition: color 0.5s;
@@ -69,6 +68,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  filter: brightness(0.8) blur(0.5px);
 }
 
 .jogo {
@@ -80,7 +80,7 @@ body {
     font-size: 3rem;
     margin-bottom: 1rem;
     text-align: center;
-
+    color: #dfafff;
 }
 
 .jogo-content p {
@@ -112,9 +112,9 @@ body {
 }
 
 .card:hover {
-  transform: translatey(-2px) scale(1.05);
-  box-shadow: 0px 10px 20px #b24af8;
-  border-color: #b24af8;
+  transform: translatey(-1px) scale(1.05);
+  box-shadow: 0px 10px 20px #dfafff77;
+  border-color: #dfafff;
 }
 
 .card p {
