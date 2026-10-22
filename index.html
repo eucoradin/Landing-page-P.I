@@ -5,24 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Landing page P.I</title>
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
   </head>
   <main>
     <header class="header">
       <div class="container">
-        <a class="logo" href="#home">M.E.C</a>
+        <a class="logo" href="#home"><img src="assets/logo.png" alt="Logo"></a>
         <nav class="menu">
-          <a href="#home">Inicio</a>
-          <a href="#Jogo">MEC - Mentes em códigos</a>
-          <a href="#sobre">Sobre</a>
-          <a href="#contato">Contato</a>
+          <a class="nav-link" href="#home">Inicio</a>
+          <a class="nav-link" href="#jogo">MEC - Mentes em códigos</a>
+          <a class="nav-link" href="#sobre">Sobre</a>
+          <a class="nav-link" href="#contato">Contato</a>
         </nav>
       </div>
     </header>
     <main></main>
-    <section class="hero-image">
-        
+    <section class="hero-image" id="home">
+      <img src="assets/logo.png" alt="Logo">
+      <h2 class="hero-text">Bem-vindo ao MEC - Mentes em códigos!</h2>
+      <button class="btn-primary">Começar agora</button>
     </section>
-    <section class="jogo">
+    <section class="jogo" id="jogo">
       <div class="jogo-content">
         <h1>MEC - Mentes em códigos</h1>
         <p>
@@ -54,11 +59,40 @@
             <h3>Pontuação</h3>
             <p>Aumente sua pontuação e desbloqueie conquistas!</p>
           </article>
-          
-          
         </div>
       </div>
     </section>
+    <section>
+      <article class="sobre" id="sobre">
+        <h2>Sobre o MEC</h2>
+        <p>
+          O MEC é um jogo de perguntas e respostas que desafia os jogadores a
+          testarem seus conhecimentos em diversas áreas, desde ciência e
+          tecnologia até cultura geral. Com uma interface intuitiva e divertida,
+          o MEC oferece uma experiência envolvente para jogadores de todas as
+          idades.
+        </p>
+
+      </article>
+    </section>
+    <section>
+      <h2>Contato</h2>
+      <form class="contato" id="contato">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required />
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="mensagem">Mensagem:</label>
+        <textarea id="mensagem" name="mensagem" required></textarea>
+
+        <button type="submit">Enviar</button>
+
+      </form>
+    </section>
+    <footer>
+      <p>&copy; 2026 MEC - Mentes em códigos. Todos os direitos reservados.</p>
   </main>
   </body>
 </html>
