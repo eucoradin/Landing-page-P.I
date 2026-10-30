@@ -112,7 +112,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  filter: brightness(0.7) blur(0.7px);
+  filter: brightness(0.2) blur(0.7px);
   inset: 0;
   z-index: -1;
   position: absolute;
@@ -227,4 +227,43 @@ body {
   background-color: #dfafff;
   transform: scale(1.05);
   font-family: "Poppins", sans-serif;
+}
+
+.sobre {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 20px;
+}
+
+.sobre h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: #dfafff;
+}
+
+.sobre p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  max-width: 800px;
+}
+
+.contato {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 20px;
+}
+
+.contato h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: #dfafff;
+  justify-content: center;
+  align-items: center;
 }
