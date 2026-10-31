@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 * {
-  margin: 0;
+  
   padding: 0;
   box-sizing: border-box;
 }
@@ -32,6 +32,15 @@ body {
   transition: background 0.3s ease-out;
   text-transform: uppercase;
   
+}
+
+.strong {
+  font-size: 1.5rem;
+  color: #dfafff;
+  margin-left: 10px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 .logo img {
   height: 60px;
@@ -181,7 +190,7 @@ body {
 
 .card {
   display: flex;
-  background-color: rgb(255, 255, 255);
+  background-color: #f1f1f1;
   border-radius: 10px;
   width: 300px;
   transition: transform 0.6s;
@@ -191,6 +200,7 @@ body {
   justify-content: center;
   text-align: center;
   padding: 20px 0; 
+  
 }
 
 .card:hover {
@@ -210,6 +220,7 @@ body {
 .card h3 {
   font-size: 1.5rem;
   margin-bottom: 10px;
+  
 }
 
 .btn-primary {
@@ -257,6 +268,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 30px 20px;
+  color: #dfafff;
 }
 
 .contato h2 {
@@ -267,3 +279,53 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+@import url('https://fonts.google.com/specimen/Cinzel?preview.script=Latn'); 
+
+.hero-image h2 {
+  font-family: 'cinzel';
+  font-size: 45px;
+  color: #fcfcfc;
+  } 
+
+  .jogo-content h1 {
+font-family: 'cinzel';
+font-size: 50px;
+color: #f3ecf8; 
+font-style: italic; 
+  }
+
+ @import url('https://fonts.google.com/specimen/Ubuntu'); 
+
+ .sobre p {
+  font-family: 'ubuntu';
+  font-size: 30px;
+  color: #f3ecf8; 
+  
+ }
+
+ .sobre h2 {
+  font-family: 'cinzel';
+  font-size: 50px;
+  color: #f3ecf8;
+  font-style: italic;  
+  
+    }
+
+    .contato h2 {
+      font-family: 'ubuntu';
+      font-size: 50px;
+      color: #f3ecf8; 
+      font-style: italic; 
+}
+
+.footer {
+  background-color: #1a1a1af3;
+  text-align: center;
+  color: #f1f1f1;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  
+}
+
