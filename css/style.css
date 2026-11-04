@@ -268,15 +268,15 @@ body {
   justify-content: space-around;
   align-items: center;
   padding: 30px 20px;
-  color: #1a1a1a;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #333;
 }
 
 .contato h2 {
   font-size: 2.5rem;
   margin-bottom: 1rem;
   text-align: center;
-  color: #1a1a1a;
+  color: #ffffff;
   justify-content: center;
   align-items: center;
 }
