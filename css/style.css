@@ -43,7 +43,7 @@ body {
   align-items: flex-start;
 }
 .logo img {
-  height: 60px;
+  height: 80px;
   width: auto;
   padding-top: 5px;
 }
@@ -265,58 +265,49 @@ body {
 .contato {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   padding: 30px 20px;
-  color: #dfafff;
+  color: #1a1a1a;
+  background-color: #ffffff;
 }
 
 .contato h2 {
   font-size: 2.5rem;
   margin-bottom: 1rem;
   text-align: center;
-  color: #dfafff;
+  color: #1a1a1a;
   justify-content: center;
   align-items: center;
 }
 
-@import url('https://fonts.google.com/specimen/Cinzel?preview.script=Latn'); 
-
 .hero-image h2 {
-  font-family: 'cinzel';
+  font-family: 'poppins';
   font-size: 45px;
   color: #fcfcfc;
   } 
 
   .jogo-content h1 {
-font-family: 'cinzel';
+font-family: 'poppins';
 font-size: 50px;
 color: #f3ecf8; 
 font-style: italic; 
   }
 
- @import url('https://fonts.google.com/specimen/Ubuntu'); 
 
  .sobre p {
-  font-family: 'ubuntu';
+  font-family: 'poppins';
   font-size: 30px;
   color: #f3ecf8; 
   
  }
 
  .sobre h2 {
-  font-family: 'cinzel';
+  font-family: 'poppins';
   font-size: 50px;
   color: #f3ecf8;
   font-style: italic;  
   
-    }
-
-    .contato h2 {
-      font-family: 'ubuntu';
-      font-size: 50px;
-      color: #f3ecf8; 
-      font-style: italic; 
 }
 
 .footer {
@@ -327,5 +318,77 @@ font-style: italic;
   justify-content: center;
   align-items: flex-end;
   
+}
+
+.contato-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+
+}
+
+input,textarea {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 8px;
+  padding: 0.75rem;
+  border: 1px solid #000000;
+}
+
+.button {
+  background-color: #edd3ff;
+  color: #1a1a1a;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.8s ease;transform: 1.3s ease;
+
+}
+
+.button:hover {
+  background-color: #d28eff;
+  transform: scale(1.01);
+  transition: background-color 0.8s ease;transform: 1.3s ease;
+
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.contato-info {
+  padding: 2rem;
+  border-radius: 12px;
+  background-color: #1a1a1a;
+  color:#f1f1f1;
+}
+
+.contato-info h3 {
+  margin-bottom: 0.5rem;
+  color: #dfafff;
+}
+
+.contato-info ul {
+  list-style: none;
+  margin-top: 1.5rem;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.contato-info a {
+  color: #4fc3f7;
+}
+
+.contato-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
 }
 

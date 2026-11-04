@@ -12,11 +12,13 @@
   <main>
     <header class="header">
       <div class="container">
+        <div class="logo-container">
         <a class="logo" href="#home"><img src="assets/logo.png" alt="Logo"></a>
         <span>
           <strong class="strong" id="strong">MEC</strong>
           <small class="small" id="small">Mentes em códigos</small>
         </span class="span" id="span">
+        </div>
         <nav class="menu">
           <a class="nav-link" href="#home">Inicio</a>
           <a class="nav-link" href="#jogo">MEC - Mentes em códigos</a>
@@ -78,9 +80,11 @@
 
       </article>
     </section>
-    <section>
-      <h2 class="contato" id="contato">Contato</h2>
-      <form class="contato" id="contato">
+    <section class="contato" id="contato">
+      <h2 class="contato-h2" id="contato-h2" >Contato</h2>
+      <div class="contato-container">
+      <div>
+      <form class="contato-form" id="contato-form">
         <label for="nome">Nome:</label>
         <input type="text" id="nome" name="nome" required />
 
@@ -90,9 +94,25 @@
         <label for="mensagem">Mensagem:</label>
         <textarea id="mensagem" name="mensagem" required></textarea>
 
-        <button type="submit">Enviar</button>
+        <button class="button"type="submit">Enviar</button>
 
       </form>
+      </div>
+      <aside class="contato-info">
+        <h3>Fale com a gente</h3>
+        <p>Tem dúvidas sobre o jogo, sugestôes ou quer levar o MEC para sua escola? Manda uma mensagem!</p>
+        <ul>
+          <li>
+            <a href="mailto:bruno.coradin@aluno.cps.sp.gov.br">bruno.coradin@aluno.cps.sp.gov.br</a>
+          </li>
+          <li>
+            <a href="tel:+5512345678910">(12) 34567-8910</a>
+          </li>
+          <li>
+            <a href="https://github.com/eucoradin">Github: eucoradin</a>
+        </ul>
+      </aside>
+      </div>
     </section>
     <footer class="footer" id="footer">
       <p>&copy; 2026 MEC - Mentes em códigos. Todos os direitos reservados.</p>
