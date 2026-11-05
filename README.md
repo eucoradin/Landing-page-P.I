@@ -1,4 +1,4 @@
-# 🎮 LOGIC — Projeto Integrador.
+# 🎮 MEC — Projeto Integrador.
 
 > <h1>O Futuro da Educação.</h1>
 
@@ -111,7 +111,7 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 - **Instituição:** FATEC Registro
 - **Curso:** DSM
 - **Semestre/Ano:** 1º Semestre 
-- **Orientadores: *[Fred](https://github.com/fbamuniz) e Thissiany Beatriz Almeida**
+- **Orientadores: *[Fred](https://github.com/fbamuniz) & Thissiany Beatriz Almeida**
 - **Mentor: *[Diego Max](https://github.com/maxxdiego)**
 
 ---
