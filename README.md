@@ -111,7 +111,7 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 - **Instituição:** FATEC Registro
 - **Curso:** DSM
 - **Semestre/Ano:** 1º Semestre 
-- **Orientadores: [Frederico Barbosa Muniz (Fred)] [https://github.com/fbamuniz] e Thissiany Beatriz Almeida**
+- **Orientadores: [Frederico Barbosa Muniz (Fred)[https://github.com/fbamuniz] e Thissiany Beatriz Almeida**
 - **Mentor: Diego Max da Silva**
 
 ---
