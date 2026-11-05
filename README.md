@@ -113,10 +113,10 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 
 | Foto | Nome | Função / Papel | Redes / Contato |
 | :---: | :--- | :--- | :--- |
-| 🧑‍💻 | **João Pedro** | Game Developer / Programmer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/joaopedrorr) |
-| 🎨 | **Bruno** | UI/UX Designer / Game Artist | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil) |
-| 🎮 | **Luiz** | Game Designer / Sound Designer | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil) |
-
+| 🧑‍💻 | **João Pedro** | Dev Back-End & arquiteto de Sistemas |
+| 🎨 | **Bruno Andre** |Dev Front-End & UX |
+| 🎮 | **Lethicia Soares** | Design & Documentação |
+| 🎮 | **Luiz Gabriel** | Dev Front-End & UI / UX  |
 ---
 
 ## 🎓 Orientadores e Instituição
