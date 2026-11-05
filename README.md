@@ -112,7 +112,7 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 - **Curso:** DSM
 - **Semestre/Ano:** 1º Semestre 
 - **Orientadores: [Frederico Barbosa Muniz *[Fred](https://github.com/fbamuniz) e Thissiany Beatriz Almeida**
-- **Mentor: Diego Max da Silva**
+- **Mentor: *[Diego Max](https://github.com/maxxdiego)**
 
 ---
 
