@@ -113,9 +113,9 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 
 | Foto | Nome | Função / Papel | Redes / Contato |
 | :---: | :--- | :--- | :--- |
-| 🧑‍💻 | **João Pedro** | Dev Back-End & arquiteto de Sistemas |
-| 🎨 | **Bruno Andre** |Dev Front-End & UX |
-| 🎮 | **Lethicia Soares** | Design & Documentação |
+| ⚙️ | **João Pedro** | Dev Back-End & arquiteto de Sistemas |
+| 🖥️ | **Bruno Andre** |Dev Front-End & UX |
+| 🎨 | **Lethicia Soares** | Design & Documentação |
 | 🎮 | **Luiz Gabriel** | Dev Front-End & UI / UX  |
 ---
 
