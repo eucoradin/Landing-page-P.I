@@ -85,7 +85,7 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/jope01/LOGIC.git](https://github.com/jope01/LOGIC.git)
+   git clone https://github.com/eucoradin/Landing-page-P.I.git
    ```
 
 2. **Abra o projeto na Engine:**
