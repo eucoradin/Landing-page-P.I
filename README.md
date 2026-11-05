@@ -29,7 +29,7 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 - **Modo de Jogo:** Single-player
 
 ### 📖 Sinopse / Enredo
-> MEC — MENTES EM CÓDIGOS — é um projeto educacional desenvolvido para o ensino de Programação Orientada a Objetos para alunos do ensino médio através de um jogo sério. O projeto utiliza uma metodologia gamificada, estruturada em cinco fases que evoluem da sintaxe básica até a automação via loops, visando reduzir a frustração dos estudantes com a complexidade abstrata da programação. Ao longo da jornada, o jogador precisa utilizar a lógica e sintaxe para interagir com o cenário e avançar pelos desafios.
+> MEC — Mentes em Códigos — é um projeto educacional desenvolvido para o ensino de Programação Orientada a Objetos para alunos do ensino médio através de um jogo sério. O projeto utiliza uma metodologia gamificada, estruturada em cinco fases que evoluem da sintaxe básica até a automação via loops, visando reduzir a frustração dos estudantes com a complexidade abstrata da programação. Ao longo da jornada, o jogador precisa utilizar a lógica e sintaxe para interagir com o cenário e avançar pelos desafios.
 
 ---
 
@@ -50,9 +50,9 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 - **Linguagem:** C / HTML5 / CSS / JavaScript
 
 ### Design & Arte
-- **Prototipagem e Apresentação:** [Figma(https://www.figma.com/proto/oSuJvfu0dgF07bQObHChcw/JOGO-M.E.C?node-id=148-1315&p=f&t=OIdDgVYyjjfiVp14-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=148%3A1315)]
+- **Prototipagem e Apresentação:** [Figma](https://www.figma.com/proto/oSuJvfu0dgF07bQObHChcw/JOGO-M.E.C?node-id=148-1315&p=f&t=OIdDgVYyjjfiVp14-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=148%3A1315)]
 - **Arte & Sprite Sheet:** Aseprite / Photoshop
-- **Áudio:** Audacity / FL Studio
+- **Áudio:** FL Studio
 
 ### Gestão e Versionamento
 - **Versionamento:** Git e GitHub
@@ -76,7 +76,7 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
    ```
 
 2. **Abra o projeto na Engine:**
-   * Abra a **Engine Customizada / VS Code**.
+   * Abra a **VS Code**.
    * Escolha a opção **Importar / Abrir** e selecione a pasta clonada.
 
 3. **Execute a Cena Principal:**
