@@ -51,7 +51,7 @@ A identidade visual, moodboard, prototipagem e apresentações (decks) do projet
 
 ### Design & Arte
 - **Prototipagem e Apresentação:** [Figma](https://www.figma.com/proto/oSuJvfu0dgF07bQObHChcw/JOGO-M.E.C?node-id=148-1315&p=f&t=OIdDgVYyjjfiVp14-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=148%3A1315)]
-- **Arte & Sprite Sheet:** Aseprite / Photoshop
+- **Arte & Sprite Sheet:** Figma / Photoshop
 - **Áudio:** FL Studio
 
 ### Gestão e Versionamento
