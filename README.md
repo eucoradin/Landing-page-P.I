@@ -24,7 +24,7 @@ Jogo sério 2D de temática medieval que ensina programação para alunos do ens
 - [Principais Funcionalidades](#-principais-funcionalidades--mechanics)
 - [Identidade Visual e Design](#-identidade-visual-e-design)
 - [A Landing Page](#-a-landing-page)
-- [Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+- [Tecnologia Utilizada](#️-tecnologias-utilizadas)
 - [Como Executar](#-como-executar-o-projeto)
 - [Controles do Jogo](#️-controles-do-jogo)
 - [Equipe do Projeto](#-equipe-do-projeto)
