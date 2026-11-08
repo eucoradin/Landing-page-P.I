@@ -7,7 +7,7 @@
 Jogo sério 2D de temática medieval que ensina programação para alunos do ensino médio.
 
 ![Projeto Integrador](https://img.shields.io/badge/Projeto-Integrador-37005c?style=for-the-badge)
-![FATEC Registro](https://img.shields.io/badge/FATEC-Registro-ff0000e?style=for-the-badge)
+![FATEC Registro](https://img.shields.io/badge/FATEC-Registro-ff0000?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-ff8C00?style=for-the-badge&logo=html5&logoColor=1a1a1a)
 ![CSS3](https://img.shields.io/badge/CSS3-0000FF?style=for-the-badge&logo=css3&logoColor=1a1a1a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=1a1a1a)
