@@ -169,10 +169,10 @@ Landing-page-P.I/
 
 | Foto | Nome | Função / Papel | Redes |
 | :---: | :--- | :--- | :---: |
-| ⚙️ | **João Pedro** | Dev Back-End & Arquiteto de Sistemas | [GitHub](https://github.com/jope01) |
-| 🖥️ | **Bruno Andre** | Dev Front-End & UX | [GitHub](https://github.com/eucoradin) |
-| 🎨 | **Lethicia Soares** | Design & Documentação | [GitHub](https://github.com/LethiciaMiranda) |
-| 🎮 | **Luiz Gabriel** | Dev Front-End & UI / UX | [GitHub](https://github.com/MosKatiello) |
+| ⚙️ | **João Pedro** | Dev Back-End & Arquiteto de Sistemas | [GitHub](https://github.com/jope01)[& Instagram](https://www.instagram.com/jpe_01?dlrf=YmppeDBobXZ2eHRk) |
+| 🖥️ | **Bruno Andre** | Dev Front-End & UX | [GitHub](https://github.com/eucoradin)[& Instagram](https://www.instagram.com/eucoradin?cplk=c2h6cjZvcnBtaDVo)|
+| 🎨 | **Lethicia Soares** | Design & Documentação | [GitHub](https://github.com/LethiciaMiranda)[& Instagram](https://www.instagram.com/lethiciamiraanda?dlrf=MTM3Zms5eXJ6OW56Yw%3D%3D)  |
+| 🎮 | **Luiz Gabriel** | Dev Front-End & UI / UX | [GitHub](https://github.com/MosKatiello)[& Instagram](https://www.instagram.com/luizmoscatiello?exln=ZmhqZmh0eTA2Nnpt&utm_source=qr) |
 
 ---
 
@@ -180,7 +180,7 @@ Landing-page-P.I/
 
 - **Instituição:** FATEC Registro
 - **Curso:** DSM
-- **Semestre/Ano:** 1º Semestre
+- **Semestre:** 1º Semestre
 - **Orientadores:** [Fred](https://github.com/fbamuniz) & Thissiany Beatriz Almeida
 - **Mentor:** [Diego Max](https://github.com/maxxdiego)
 
