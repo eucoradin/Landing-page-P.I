@@ -118,7 +118,7 @@ Landing-page-P.I/
 - **Linguagem:** C / HTML5 / CSS3 / JavaScript
 
 ### Design & Arte
-- **Prototipagem e Apresentação:** [Figma](https://www.figma.com/proto/oSuJvfu0dgF07bQObHChcw/JOGO-M.E.C?node-id=148-1315&p=f&t=OIdDgVYyjjfiVp14-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=148%3A1315)
+- **Prototipagem e Apresentação:** Figma
 - **Arte & Sprite Sheet:** Figma
 - **Áudio:** FL Studio
 - **Fontes da landing page:** Poppins, Cinzel e Ubuntu
