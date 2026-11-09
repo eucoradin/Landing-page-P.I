@@ -1,10 +1,8 @@
+ <h1 align="center"> MEC - Mentes em Códigos </h1>
+
 <div align="center">
-
-# 🎮 MEC — Mentes em Códigos
-
-### O Futuro da Educação.
-
-Jogo sério 2D de temática medieval que ensina programação para alunos do ensino médio.
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&duration=2500&pause=800&color=F3F4F4&center=true&vCenter=true&width=600&lines=O+Futuro+da+Educa%C3%A7%C3%A3o;Conhecimento;Explorar;Criatividade" alt="Typing SVG" />
+<h3> Jogo sério 2D de temática medieval que ensina programação para alunos do ensino médio. </h3>   
 
 ![Projeto Integrador](https://img.shields.io/badge/Projeto-Integrador-37005c?style=for-the-badge)
 ![FATEC Registro](https://img.shields.io/badge/FATEC-Registro-ff0000?style=for-the-badge)
